@@ -1,8 +1,10 @@
-# Parse ICD10 codes from CMS
+# Wrangle ICD10 codes
 
-ICD10 codes are from Centers for Medicare & Medicaid Services (CMS):
+The International Classification of Diseases (ICD10) is a diagnostic and procedure coding system endorsed by the World Health Organization (WHO).
 
-https://www.cms.gov/medicare/coding-billing/icd-10-codes/2024-icd-10-cm
+For more info, see the Centers for Medicare and Medicaid Services (CMS): www.cms.gov/ICD10
+
+ICD10 codes are provided by CMS: https://www.cms.gov/medicare/coding-billing/icd-10-codes/2024-icd-10-cm
 
 Codes are provided in .xml format, which is not ideal for data engineering.
 
